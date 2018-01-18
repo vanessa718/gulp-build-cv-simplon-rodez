@@ -1,5 +1,5 @@
 {
-  "name": "CV de ${name}",
+  "name": "cv_de_vanessa",
   "version": "1.0.0",
   "description": "Online Cv",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "gulp",
     "build": "gulp build"
   },
-  "author": "${name}",
+  "author": "vanessa",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.7.12",
